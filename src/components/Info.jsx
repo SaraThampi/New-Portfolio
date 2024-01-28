@@ -1,7 +1,7 @@
-import github from "../assets/GitHub-Icon.png"
-import linkedin from "../assets/linkedin.png"
-import mail from "../assets/mail.png"
-import pdf from "../assets/ST_CV.pdf"
+import github from "/GitHub-Icon.png"
+import linkedin from "/Linkedin.png"
+import mail from "/mail.png"
+import pdf from "/ST_CV.pdf"
 
 
 export default function Info() {

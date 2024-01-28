@@ -1,4 +1,4 @@
-import two_pink_balloons from "../assets/two_pink_balloons_transparent_bg.png"
+import two_pink_balloons from "../assets/two_pink_balloons.png"
 
 export default function Balloons() {
     return(
