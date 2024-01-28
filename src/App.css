@@ -16,7 +16,6 @@
 
 .content-wrapper {
   background-color: #e4e3e8;
-  /* background-color: #c9bebc; */
 }
 
 .balloon-image {
@@ -43,6 +42,10 @@ h2 {
   font-size: 2rem;
 }
 
+h3 {
+  font-weight: 500;
+}
+
 .main-content {
   display: flex;
 }
@@ -64,3 +67,18 @@ h2 {
   margin-top: -7rem;
 }
 
+.balloon-container {
+  /* border: black solid 1px; */
+  width: 25%;
+  display: inline-block;
+}
+
+a {
+  cursor: pointer;
+}
+
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}

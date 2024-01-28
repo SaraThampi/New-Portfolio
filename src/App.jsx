@@ -16,8 +16,13 @@ function App() {
       </div>
       <div className="project-content">
         <About />
-        <Balloons />
         <HomeHorizonClip />
+      </div>
+      <div className="footer">
+        <Balloons />
+        <Balloons />
+        <Balloons />
+        <Balloons />
       </div>
     </div>
   );
