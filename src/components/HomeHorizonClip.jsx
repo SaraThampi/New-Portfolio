@@ -2,7 +2,7 @@ import React from "react";
  import YouTube from "react-youtube";
 
 
- class MovieClip extends React.Component {
+ class HomeHorizonClip extends React.Component {
     render() {
       const options = {
         height: '390',
@@ -21,4 +21,4 @@ import React from "react";
     }
   }
 
-  export default MovieClip;
+  export default HomeHorizonClip;

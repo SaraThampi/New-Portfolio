@@ -1,15 +1,32 @@
 * {
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Rubik', sans-serif; */
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.name-header {
+  font-size: 3rem;
+  color: #1a396e;
 }
 
 .content-wrapper {
   background-color: #e4e3e8;
 }
 
-.header-logo {
-  height: 1 rem;
-  width: 1 rem; 
+.balloon-image {
+ margin-left: 5rem;
+ margin-top: 2rem;
 }
+
+.info-wrapper {
+  padding: 2rem 5rem;
+}
+
 .nice-text {
   color: orange;
 }
