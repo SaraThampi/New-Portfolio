@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.content-wrapper {
+  background-color: #e4e3e8;
+}
+
+.header-logo {
+  height: 1 rem;
+  width: 1 rem; 
+}
+.nice-text {
+  color: orange;
+}
+
+.main-content {
+  display: flex;
+}
+
+.video-frame {
+  margin: auto;
+  border-radius: 20px;
+}
+
+.vid-container {
+  margin: auto;
+}
