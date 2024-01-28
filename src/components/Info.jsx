@@ -29,9 +29,9 @@ export default function Info() {
                 Please click here to view my <a target="_blank" rel="noreferrer" href={pdf} className="text-link" ><strong>CV</strong></a>.
             </p>
             <div className="social-icons">
-                <a target="_blank" href="https://github.com/SaraThampi" rel="noreferrer" ><img src={github} height={40} /></a>
-                <a target="_blank" href="https://www.linkedin.com/in/sara-thampi-236267289/" rel="noreferrer" ><img src={linkedin} height={40}/></a>
-                <a target="_blank" href="mailto:saraannthampi@gmail.com" rel="noreferrer" ><img src={mail} height={40}/></a>
+                <a target="_blank" href="https://github.com/SaraThampi" rel="noreferrer"><img src={github} height={40} alt="github link" /></a>
+                <a target="_blank" href="https://www.linkedin.com/in/sara-thampi-236267289/" rel="noreferrer" ><img src={linkedin} height={40} alt="linkedin link" /></a>
+                <a href="mailto:saraannthampi@gmail.com" ><img src={mail} height={40} alt="email me" /></a>
             </div>
         </div>
     )
