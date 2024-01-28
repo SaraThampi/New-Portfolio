@@ -5,7 +5,7 @@ export default function Info() {
                 Hi, My name is Sara Thampi and I have just completed an intensive coding bootcamp, learning <strong>JavaScript, React</strong> and <strong>Node.js.</strong>
             </p>
             <p>
-                When I was a child my dad bought an Amstrad computer for his accountancy job.  I discovered a guide for the programming language GW-Basic among his computer manuals and taught myself how to make little programs. This led me to taking an IT GCSE: We made pages in Teletext, little programs in BASIC and were the first people in school to have an email address. But our teacher warned us, that a Computer Science A-level was much harder and we needed much more knowledge than he had taught us.
+                When I was a child my dad bought an Amstrad computer for his accountancy job.  I discovered a guide for the programming language GW-Basic among his computer manuals and taught myself how to make little programs. This led me to take a GCSE in IT: We made pages in Teletext, little programs in BASIC and were the first people in school to have an email address. But our teacher warned us, that a Computer Science A-level was much harder and we needed much more knowledge than he had taught us.
             </p>
             <p>
                 So I studied Maths, Physics and German instead. I was not talented at talking and I wanted to challenge myself: I decided to study a languages degree (German and Danish) at Edinburgh University; I loved the written work, but found the oral work challenging.

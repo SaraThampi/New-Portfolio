@@ -3,6 +3,7 @@ import SideBar from "./components/SideBar";
 import Info from "./components/Info";
 import HomeHorizonClip from "./components/HomeHorizonClip"
 import About from "./components/About";
+import Balloons from "./components/Balloons";
 import "./App.css";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       </div>
       <div className="project-content">
         <About />
+        <Balloons />
         <HomeHorizonClip />
       </div>
     </div>

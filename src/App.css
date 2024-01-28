@@ -32,8 +32,15 @@ p {
   text-align: justify;
 }
 
-.nice-text {
-  color: orange;
+h2, h3, .vid-description {
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 700;
+  color: #2e6196;
+  font-size: 2rem;
 }
 
 .main-content {
@@ -54,9 +61,6 @@ p {
   justify-content: center;
   align-items: center;
   height: 100vh; 
-  margin-top: -6rem;
+  margin-top: -7rem;
 }
 
-.vid-description {
-  text-align: center;
-}
