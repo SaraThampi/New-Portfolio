@@ -7,11 +7,14 @@
 .header-wrapper {
   display: flex;
   justify-content: center;
+  padding-top: 2rem;
 }
 
 .name-header {
   font-size: 3rem;
   color: #1a396e;
+  font-weight: 800;
+  letter-spacing: 3px;
 }
 
 .content-wrapper {
