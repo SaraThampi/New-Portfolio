@@ -1,3 +1,9 @@
+import github from "../assets/GitHub-Icon.png"
+import linkedin from "../assets/linkedin.png"
+import mail from "../assets/mail.png"
+import pdf from "../assets/ST_CV.pdf"
+
+
 export default function Info() {
     return(
         <div className="info-wrapper"> 
@@ -20,10 +26,12 @@ export default function Info() {
             </p>
 
             <p>
-                Please click here to view my <a><strong>CV</strong></a>.
+                Please click here to view my <a target="_blank" rel="noreferrer" href={pdf} className="text-link" ><strong>CV</strong></a>.
             </p>
             <div className="social-icons">
-                <a><strong>Github Profile</strong></a>.
+                <a target="_blank" href="https://github.com/SaraThampi" rel="noreferrer" ><img src={github} height={40} /></a>
+                <a target="_blank" href="https://www.linkedin.com/in/sara-thampi-236267289/" rel="noreferrer" ><img src={linkedin} height={40}/></a>
+                <a target="_blank" href="mailto:saraannthampi@gmail.com" rel="noreferrer" ><img src={mail} height={40}/></a>
             </div>
         </div>
     )

@@ -65,6 +65,7 @@ h3 {
   align-items: center;
   height: 100vh; 
   margin-top: -7rem;
+  margin-bottom: -5rem;
 }
 
 .balloon-container {
@@ -75,6 +76,23 @@ h3 {
 
 a {
   cursor: pointer;
+}
+
+.social-icons img{
+  margin-right: 1rem;
+}
+
+.social-icons img:hover{
+  height: 60px;
+}
+
+.text-link {
+  text-decoration: none;
+}
+
+.text-link:hover {
+  color:#1a396e;
+  font-size: large; 
 }
 
 footer {
