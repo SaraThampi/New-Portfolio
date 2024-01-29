@@ -93,6 +93,7 @@ h3 {
 
 .vid-content {
   display: flex;
+  flex-direction: column;
 }
 
 .vid-container {
