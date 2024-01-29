@@ -8,7 +8,9 @@ export default function About() {
             </p>
             <p className="vid-description">
                 Please watch the video below to see a demonstration of our app:
+            <p className="vid-description">    
                 Here is a link to the <a target="_blank" href="https://github.com/SaraThampi/shelterapp" rel="noreferrer">GitHub repository.</a>
+            </p>
             </p>
         </div>
     )
