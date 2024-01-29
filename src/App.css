@@ -1,3 +1,28 @@
+@media screen and (max-width: 1200px) {
+  .main-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .balloon-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .info-wrapper {
+    width: 100%;
+    padding: 0;
+  }
+  .balloon-image {
+    align-self: center;
+    margin: auto;
+    width: 80%;
+    /* border: black solid 10px; */
+  }
+  .info-text {
+    width: 100%;
+  }
+}
+
 * {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
@@ -11,7 +36,7 @@
 }
 
 .name-header {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #1a396e;
   font-weight: 800;
   letter-spacing: 3px;
