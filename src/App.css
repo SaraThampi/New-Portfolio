@@ -21,6 +21,10 @@
   .info-text {
     width: 100%;
   }
+  .vid-content {
+    padding: 0 2rem -2rem 2rem;
+    /* border: black solid 10px; */
+  }
 }
 
 * {
@@ -85,6 +89,10 @@ h3 {
 .video-frame {
   max-width: 100%;
   max-height: 100%;
+}
+
+.vid-content {
+  display: flex;
 }
 
 .vid-container {

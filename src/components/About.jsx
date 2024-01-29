@@ -1,6 +1,6 @@
 export default function About() {
     return(
-        <div>
+        <div className="vid-content">
             <h2>Projects</h2>
             <h3>Home Horizon - Homeless Shelter App</h3>
             <p className="vid-description">
