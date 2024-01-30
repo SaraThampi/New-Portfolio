@@ -34,7 +34,7 @@ export default function Info() {
             <div className="social-icons">
                 <a target="_blank" href="https://github.com/SaraThampi" rel="noreferrer"><img src={github} height={40} alt="github link" /></a>
                 <a target="_blank" href="https://www.linkedin.com/in/sara-thampi-236267289/" rel="noreferrer" ><img src={linkedin} height={40} alt="linkedin link" /></a>
-                <a href="mailto:saraannthampi@gmail.com" ><img src={mail} height={40} alt="email me" /></a>
+                <a href="mailto:saraannthampi@outlook.com" ><img src={mail} height={40} alt="email me" /></a>
             </div>
         </div>
     )
