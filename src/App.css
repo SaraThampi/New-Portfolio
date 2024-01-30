@@ -21,8 +21,8 @@
   .info-text {
     width: 100%;
   }
-  .vid-content {
-    padding: 0 2rem -2rem 2rem;
+  .vid-container {
+    padding-top: 15rem;
     /* border: black solid 10px; */
   }
 }
@@ -68,6 +68,14 @@ h2, h3, .vid-description {
   text-align: center;
 }
 
+.vid-description {
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  /* background-color: green; */
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 h2 {
   font-weight: 700;
   color: #2e6196;
@@ -87,13 +95,15 @@ h3 {
 }
 
 .video-frame {
-  max-width: 100%;
+  max-width: 80%;
   max-height: 100%;
+  /* background-color: green; */
 }
 
 .vid-content {
   display: flex;
   flex-direction: column;
+  /* background-color: green; */
 }
 
 .vid-container {
@@ -101,8 +111,9 @@ h3 {
   justify-content: center;
   align-items: center;
   height: 100vh; 
-  margin-top: -7rem;
-  margin-bottom: -5rem;
+  margin-top: -16rem;
+  margin-bottom: 0;
+  /* background-color: green; */
 }
 
 .balloon-container {
